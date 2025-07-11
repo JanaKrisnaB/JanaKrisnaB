@@ -44,7 +44,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janakrisnab&" alt="janakrisnab" /></p>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=janakrisnab&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 📌 Featured Projects
