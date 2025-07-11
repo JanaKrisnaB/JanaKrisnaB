@@ -51,9 +51,9 @@
 
 - 🧠 **CIFAR-10 Classifier** – Achieved 97% accuracy using `ResNet50` + custom GradIO UI  
   `TensorFlow` `Keras` `Hugging Face`
-
-
 ---
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/janakrisnab/janakrisnab/output/github-contribution-grid-snake.svg)
 
 ### 📫 Connect with Me
 <p align="left">
