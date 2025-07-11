@@ -54,8 +54,6 @@
   `TensorFlow` `Keras` `Hugging Face`
 ---
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/janakrisnab/janakrisnab/output/github-contribution-grid-snake.svg)
-
 ### 📫 Connect with Me
 <p align="left">
   <a href="mailto:janakrisna.b2402@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
