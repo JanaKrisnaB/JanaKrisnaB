@@ -44,11 +44,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janakrisnab&" alt="janakrisnab" /></p>
 
 ---
-### 🏆 GitHub Trophy Cabinet
+[![trophy](https://github-profile-trophy.vercel.app/?username=janakrisnab&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janakrisnab&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
 
 ### 📌 Featured Projects
 - 🔍 **LucidLens** – AI-powered image summarizer using BART/NLP + OCR  
