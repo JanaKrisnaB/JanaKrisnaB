@@ -39,7 +39,7 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janakrisnab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img align="center" src="https://streak-stats.demolab.com?user=janakrisnab&theme=tokyonight&hide_border=false" alt="janakrisnab" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=janakrisnab&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janakrisnab&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
