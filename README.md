@@ -50,7 +50,7 @@
 - 🔍 **LucidLens** – AI-powered image summarizer using BART/NLP + OCR  
   `FastAPI` `Hugging Face Transformers` `React` `OpenCV`
 
-- 🧠 **CIFAR-10 Classifier** – Achieved 97% accuracy using `ResNet50` + custom GradIO UI  
+- 🧠 **CIFAR-10 Classifier** – Achieved 93% accuracy using `ResNet50` + custom GradIO UI  
   `TensorFlow` `Keras` `Hugging Face`
 ---
 
