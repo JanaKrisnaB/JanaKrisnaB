@@ -50,11 +50,4 @@
   `TensorFlow` `Keras` `Hugging Face`
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://github.com/JanaKrisnaB"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
-</p>
-
----
-
 ⭐️ *If you like what I do, consider giving my repos a star to support my work!*
