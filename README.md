@@ -1,5 +1,4 @@
 <h1 align="center">Hey there 👋, I'm Jana Krisna B</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | AI Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=janakrisnab&label=Profile%20views&color=0e75b6&style=flat" alt="janakrisnab" />
@@ -56,8 +55,6 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="mailto:janakrisna.b2402@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/janakrisna24"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/JanaKrisnaB"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
 </p>
 
