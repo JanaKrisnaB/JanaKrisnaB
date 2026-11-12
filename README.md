@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 B.Tech in **AI & Data Science**, SASTRA University (2023–2027)
+- 🎓 B.Tech in **AI & Data Science** (2023–2027)
 - 🧪 Currently building projects in **Machine Learning**, **Computer Vision**, and **NLP**
 - 💡 Projects powered by **TensorFlow**, **Scikit-Learn**, **FastAPI**, and **Hugging Face**
 
